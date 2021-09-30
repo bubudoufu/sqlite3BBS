@@ -46,7 +46,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST')
 
   <div class="formbox">
     <span>レスを投稿する</span>
-    <!-- <form action="?action=message" method="post"> -->
     <form action="" method="post">
       <ul>
         <li>
